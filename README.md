@@ -5,16 +5,6 @@ Analysis of the current trends shaping people's lives, as well as creating chart
 The current data set incldes data on rates of income, obesity, poverty, etc. by state, based on 2014 ACS 1-year estimates. MOE stands for "margin of error."
 [https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml](https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml),
 
-### Before You Begin
-
-1. Create a new repository for this project called `D3-challenge`. **Do not add this homework to an existing repository**.
-
-2. Clone the new repository to your computer.
-
-3. Inside your local git repository, create a directory for the D3 challenge. Use the folder name to correspond to the challenge: **D3_data_journalism**.
-
-## Your Task
-
 ### Level 1: D3 Dabbler
 
 You need to create a scatter plot between two of the data variables such as `Healthcare vs. Poverty` or `Smokers vs. Age`.
