@@ -16,15 +16,9 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
 
 3. Inside your local git repository, create a directory for the D3 challenge. Use the folder name to correspond to the challenge: **D3_data_journalism**.
 
-4. This homeworks utilizes both **html** and **Javascript** so be sure to add all the necessary files. These will be the main files to run for analysis.
-
-5. Push the above changes to GitHub or GitLab.
-
 ## Your Task
 
 ### Level 1: D3 Dabbler
-
-![4-scatter](Images/4-scatter.jpg)
 
 You need to create a scatter plot between two of the data variables such as `Healthcare vs. Poverty` or `Smokers vs. Age`.
 
@@ -41,8 +35,6 @@ Using the D3 techniques we taught you in class, create a scatter plot that repre
 ### Level 2: Impress the Boss (Optional Challenge Assignment)
 
 Why make a static graphic when D3 lets you interact with your data?
-
-![7-animated-scatter](Images/7-animated-scatter.gif)
 
 #### 1. More Data, More Dynamics
 
